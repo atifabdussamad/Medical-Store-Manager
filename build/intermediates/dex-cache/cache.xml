@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer-pc\AndroidStudioProjects\Medical Shop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\acer-pc\AndroidStudioProjects\Medical Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_01e94f25a29ee628ee3e63946712ed96032a120e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer-pc\AndroidStudioProjects\Medical Shop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a5a55f38a8b3bdd1d7e04fe900506b7ceff68196">
+        <dex dex="C:\Users\acer-pc\AndroidStudioProjects\Medical Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b9ae19d76080a640209ebb3c349fb07c2558ab7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\acer-pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\acer-pc\AndroidStudioProjects\Medical Shop\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c000faca135a8d24316298f92694cd5ff54cba19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\acer-pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\acer-pc\AndroidStudioProjects\Medical Shop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_c000faca135a8d24316298f92694cd5ff54cba19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\acer-pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\acer-pc\AndroidStudioProjects\Medical Shop\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c000faca135a8d24316298f92694cd5ff54cba19.jar" />
+    </item>
+
+</items>

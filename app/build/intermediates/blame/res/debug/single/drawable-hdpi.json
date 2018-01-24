@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\medical.png",
+        "source": "C:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\src\\main\\res\\drawable-hdpi\\medical.png"
+    }
+]

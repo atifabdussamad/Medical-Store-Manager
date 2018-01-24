@@ -1,0 +1,7 @@
+#Mon Dec 25 01:59:51 IST 2017
+base.0=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9ae19d76080a640209ebb3c349fb07c2558ab7c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e94f25a29ee628ee3e63946712ed96032a120e\\classes.dex
+base.1=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e94f25a29ee628ee3e63946712ed96032a120e
+file.0=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9ae19d76080a640209ebb3c349fb07c2558ab7c\\classes.dex

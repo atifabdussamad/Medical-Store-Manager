@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Dec 25 01:59:51 IST 2017
+2.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9ae19d76080a640209ebb3c349fb07c2558ab7c\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\student_main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\medical.png
+5.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b9ae19d76080a640209ebb3c349fb07c2558ab7c
+8.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e94f25a29ee628ee3e63946712ed96032a120e\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_student_main.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\student_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e94f25a29ee628ee3e63946712ed96032a120e
+3.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\acer-pc\\AndroidStudioProjects\\Medical Shop\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+8.set=DEX
+0.set=ANDROID_RESOURCE
